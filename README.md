@@ -1,5 +1,5 @@
-👋 Hi, I’m Roy!
-
+**👋 Hi, I’m Roy!
+**
 Welcome to my GitHub profile.
 
 Check out my repositories on topics including Data Science, Data Analytics and Machine Learning.
