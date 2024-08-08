@@ -4,7 +4,9 @@ Welcome to my GitHub profile.
 
 # 🚀 What I'm up to:
 🤖 Exploring Machine Learning with Keras
+
 📊 Analyzing Data to Drive Informed Decision-Making
+
 👨🏻‍💻 Utilizing SQL for Database Exploration and Developing Predictive Models
 
 ## 🌐 Connect with me:
