@@ -3,11 +3,11 @@
 Welcome to my GitHub profile.
 
 # 🚀 What I'm up to:
-🤖 Exploring Machine Learning with Keras
-
 📊 Analyzing Data to Drive Informed Decision-Making
 
 👨🏻‍💻 Utilizing SQL for Database Exploration and Developing Predictive Models
+
+🤖 Building an AI-powered Productivity App
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/royhayyat) 
